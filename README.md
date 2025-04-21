@@ -12,9 +12,9 @@ Este repositório está organizado por linguagens, ferramentas e temas abordados
 .
 ├── PowerShell/
 │   └── Get-FileLastWriteTime.ps1
-│   └── README.md
+│   └── 
 ├── Python/
-│   └── script_exemplo.py
+│   └── 
 ├── Bash/
-│   └── monitoramento_logs.sh
-└── README.md (este arquivo)
+│   └── 
+└── 
